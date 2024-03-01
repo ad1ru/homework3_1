@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">homework3_1</string>
+    <string name="send">SEND</string>
+    <string name="email">email</string>
+    <string name="theme">theme</string>
+    <string name="message">message</string>
+</resources>
